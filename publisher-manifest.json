@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0b3e35c64d63ee332b00afcf",
+  "owner": "x7wmu5dqa",
+  "repo": "page-c5c44017246fc392538ebfa1",
+  "title": "无界云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c5c44017246fc392538ebfa1",
+      "a": "无界云",
+      "b": "",
+      "entity": "无界云",
+      "brand": "无界云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "44be67e41f07a7d9f3b99e46be3db2d9c7194dfa266af40e88af70e16e2979a5",
+      "content": {
+        "keyword1": "无界云",
+        "keyword2": "",
+        "primary_entity": "无界云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "无界云是面向个人与团队的VPN机场服务官网，提供多套餐订阅、全平台客户端下载指引与稳定网络加速，覆盖流媒体解锁、游戏加速和跨境办公场景。",
+          "AI_DESCRIPTION": "无界云是面向个人与团队的VPN机场服务官网，提供多套餐订阅、全平台客户端下载指引与稳定网络加速，覆盖流媒体解锁、游戏加速和跨境办公场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65;color:#1f2937;background:#f3f4f6}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#ede9fe;border-bottom:2px solid #7c3aed}nav{max-width:960px;margin:0 auto;padding:0.8rem 1rem}nav a{color:#5b21b6;font-weight:600;margin-right:0.9rem;display:inline-block}main{max-width:960px;margin:0 auto;padding:0.5rem 1rem 2rem}.lead{font-size:1.05rem;color:#374151}h1{font-size:1.85rem;color:#4c1d95;margin:1.1rem 0 0.4rem}h2{font-size:1.38rem;color:#5b21b6;border-bottom:2px solid #c4b5fd;padding-bottom:0.28rem;margin:2rem 0 0.9rem}h3{font-size:1.12rem;color:#6d28d9;margin:0.6rem 0 0.4rem}.columns{display:flex;flex-wrap:wrap;gap:1.25rem}.col{flex:1 1 280px}.card{background:#fff;border:1px solid #d1d5db;border-radius:8px;padding:1.15rem}.plans{display:flex;flex-wrap:wrap;gap:1rem}.plan{flex:1 1 250px}.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.25rem;font-weight:700;color:#4c1d95;margin:0.3rem 0}ul,ol{padding-left:1.2rem}li{margin:0.25rem 0}details{background:#fff;border:1px solid #e5e7eb;border-radius:6px;padding:0.7rem 1rem;margin:0.55rem 0}summary{font-weight:600;color:#5b21b6}footer{background:#e5e7eb;margin-top:1.5rem;padding:1.4rem 0;font-size:0.92rem}.foot-inner{max-width:960px;margin:0 auto;padding:0 1rem}.ad{background:#fef3c7;border:1px dashed #d97706;padding:0.75rem;text-align:center;margin:1rem 0}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:0.1rem 0.45rem;border-radius:4px;margin-left:0.35rem}#sitemap ul{padding-left:1.1rem}@media (max-width:640px){h1{font-size:1.5rem}nav a{margin:0.25rem 0.7rem 0.25rem 0}.plans,.columns{flex-direction:column}}</style><header><nav><a href=\"#home\">首页</a><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a><a href=\"#sitemap\">网站地图</a></nav></header><main><section id=\"home\"><h1>无界云 — 专业VPN机场与客户端下载官网</h1><p class=\"lead\">无界云官方网站提供机场订阅、多端加速器客户端指引与稳定网络加速服务。用户可按需选择基础、旗舰或团队套餐，导入订阅后连接全球节点，用于流媒体、办公与游戏加速。</p></section><section id=\"intro\"><h2>品牌简介</h2><div class=\"columns\"><div class=\"col\"><p>无界云定位为面向个人与小团队的VPN机场服务，强调订阅即可用、客户端选择灵活、线路可持续维护。我们把节点质量、流媒体解锁完整度与高峰时段可用性放在产品核心，避免一次性节点堆砌。</p><p>服务采用标准订阅分发，兼容主流开源与商业客户端。用户在官网完成套餐开通后即可获取专属订阅链接，无需复杂配置文件手工填写。隐私方面，连接过程以加密隧道完成，官方不 bundling 不明安装包。</p></div><div class=\"col card\"><h3>服务要点</h3><ul><li>香港、日本、新加坡、美国、台湾等常用方向节点池</li><li>旗舰线路含 IPLC 专线，适合游戏与实时会议</li><li>按套餐区分设备数、流量与工单优先级</li><li>年付通道降低长期使用成本</li><li>操作以导入订阅为主，降低上手门槛</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"columns\"><div class=\"col card\"><h3>流媒体与资料访问</h3><p>基础版可覆盖日常影视与网页加速；旗舰版强调全节点原生流媒体解锁，减少因线路质量导致的地区误判与卡顿。适合需要稳定观看与检索的用户。</p></div><div class=\"col card\"><h3>游戏与低延迟需求</h3><p>旗舰版对游戏向 IPLC 线路做了优化，降低跨区对战中的抖动。选择延迟较低的专线节点后，再开启客户端系统代理或 TUN 模式即可。</p></div><div class=\"col card\"><h3>跨境办公与团队协作</h3><p>团队版提高同时在线设备数与月流量上限，并支持更灵活的路由策略，方便多成员共用同一订阅体系完成会议、网盘与内部系统访问。</p></div></div></section><section id=\"plans\"><h2>套餐与订阅</h2><p>以下为无界云当前公开套餐。价格按自然月计费，年付通道已在各套餐中标明。开通后可在用户中心复制机场订阅链接，导入任意兼容客户端。</p><div class=\"plans\"><article class=\"plan card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#download\">前往官网订阅入口</a></p></article><article class=\"plan card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#download\">前往官网订阅入口</a></p></article><article class=\"plan card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#download\">前往官网订阅入口</a></p></article></div></section><section id=\"clients\"><h2>客户端选择</h2><p>无界云不强制单一 App，而是以机场订阅为核心。请按系统选择成熟客户端，从该客户端自己的官方发布渠道安装，再粘贴无界云订阅地址。这样可把安全更新与核心网络服务分开，也便于你在多台设备间同步同一套节点。</p><div class=\"columns\"><div class=\"col card\"><h3>Windows</h3><p>常见选择包括 v2rayN、Clash Verge 与 Clash Meta 系图形客户端。导入订阅后更新节点，按延迟或名称筛选香港、日本或美国线路，再开启系统代理。</p></div><div class=\"col card\"><h3>macOS</h3><p>可使用 ClashX Meta、Surge 等。macOS 用户建议开启兼容的增强模式，避免部分浏览器直连。订阅更新频率建议保持自动，以免节点变更后无法连接。</p></div><div class=\"col card\"><h3>Android</h3><p>Clash Meta、v2rayNG、Surfboard 均可导入标准订阅。移动网络下可按应用分流，仅对需要加速的 App 走代理，节省套餐流量。</p></div><div class=\"col card\"><h3>iOS 与其它</h3><p>iOS 侧常用 Shadowrocket、Stash、Quantumult X 等（部分为付费应用）。Linux 与路由器用户可使用兼容 Clash 或 sing-box 的配置。同一订阅可在设备数限制内复用。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><h3>1. 在官网选定套餐</h3><p>对照流量、设备数与是否需要 IPLC、优先工单，选择基础版、旗舰版或团队版。年付适合长期使用。完成开通后，在账户页复制订阅链接并妥善保存。</p><h3>2. 安装对应客户端</h3><p>根据上一节的客户端选择，前往各工具官方站点或应用商店下载。无界云官网仅提供订阅与使用说明，不托管来历不明的安装包，以降低篡改风险。</p><h3>3. 导入机场订阅</h3><p>在客户端找到「订阅」「配置」或「Profiles」入口，粘贴链接并更新。成功后应看到按地区或用途分组的节点列表。若列表为空，检查链接是否完整、客户端是否支持该订阅格式。</p><h3>4. 连接与分流</h3><p>先选延迟较低的节点测试连通，再按场景切换：浏览可用普通线路，影视优先解锁能力强的节点，游戏走 IPLC。必要时开启规则分流，让国内流量直连。旗舰与团队用户可通过工单反馈具体线路质量。</p><h3>节点与性能说明</h3><p>无界云日常维护香港、日本、新加坡、美国、台湾、韩国等方向。普通池面向日常加速，旗舰与团队可使用更高带宽与专线资源。我们会在负载升高时扩容或摘除异常节点，但不承诺某一时刻的瞬时峰值速度，实际体验与本地运营商、时段有关。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>无界云是什么？和普通加速器有何不同？</summary><p>无界云是提供机场订阅的网络加速服务官网。用户购买套餐后获得可导入各类客户端的订阅链接，而不是绑定单一封闭 App。这样可以按设备自由选择 Windows、macOS、Android 或 iOS 工具，并统一管理节点。</p></details><details><summary>客户端下载是否必须通过无界云安装包？</summary><p>不必。官方推荐从各客户端自己的发布页或应用商店获取软件，再导入本站订阅。官网下载专区提供的是套餐入口与导入说明，避免把加速服务与来源不明的可执行文件绑在一起。</p></details><details><summary>各套餐的设备数和流量如何计算？</summary><p>基础版 3 台设备、每月 100GB；旗舰版 5 台设备、每月 300GB；团队版 20 台设备、每月 1000GB。同时在线以实际握手连接计。流量按出站用量累计，当月用尽后需等待重置或升级套餐，具体以账户页显示为准。</p></details><details><summary>如何解锁流媒体或降低游戏延迟？</summary><p>基础版提供基础流媒体能力；旗舰版强调全节点原生解锁，并含 IPLC 游戏向优化。请在客户端中选择标注对应能力的节点，避免用普通中转看需要严格地区检测的内容。游戏建议固定一条延迟稳定的专线，不要频繁自动切换。</p></details><details><summary>订阅导入失败或经常掉线怎么办？</summary><p>先确认链接完整、客户端版本较新，并手动更新订阅。掉线时可更换同地区其它节点，或切换协议实现（视客户端而定）。持续异常时，旗舰用户可走优先工单，团队用户可联系客户经理协助排查本地网络与规则配置。</p></details><details><summary>团队版和企业定制路由适合谁？</summary><p>适合设备多、需要统一出口或按域名/IP 精细分流的小团队。定制路由可把办公系统、会议软件与其它流量分开处理。个人轻度使用选择基础或旗舰即可，不必上团队版。</p></details></section><section id=\"download\"><h2>官网下载与订阅入口</h2><p>请通过无界云官方网站完成套餐开通并复制订阅链接，这是获取节点更新的正规途径。客户端安装包请使用上文列出的各工具官方渠道。将本页加入收藏后，可随时对照套餐、客户端选择与操作说明。</p><p><a href=\"#plans\">查看套餐</a> · <a href=\"#clients\">返回客户端选择</a> · <a href=\"#home\">回到顶部</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot-inner\"><div class=\"ad\">广告位：品牌合作与信息展示（非跳转外部资源）</div><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#home\">首页与标题区</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐与订阅</a></li><li><a href=\"#clients\">客户端选择</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">官网下载</a></li></ul></section><p><strong>友情链接</strong>：<a href=\"#\">开源客户端资料</a> · <a href=\"#\">网络协议学习笔记</a> · <a href=\"#\">办公协作工具导航</a></p><p>© 无界云官方网站 保留所有权利。本站介绍 VPN 机场订阅、网络加速器与客户端下载方法，使用请遵守当地法律法规与服务条款。</p></div></footer>",
+          "hash": "ccda5664f89865f7f951c012e7857c7f80f37a8a12d9f0261e6481819b0d58a5",
+          "seo": {
+            "title": "无界云官网 | VPN机场订阅、网络加速器与客户端下载",
+            "keywords": "无界云,无界云VPN,无界云机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "无界云是面向个人与团队的VPN机场服务官网，提供多套餐订阅、全平台客户端下载指引与稳定网络加速，覆盖流媒体解锁、游戏加速和跨境办公场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "thyny.cn",
+    "host": "p-0e8d1d5605.thyny.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "thyny.cn",
+      "url": "https://thyny.cn/",
+      "label": "大白加速",
+      "apex": "thyny.cn",
+      "kind": null,
+      "identity": "cvmncfybabm/page-9ed3ebb10362a51e0310d4ea"
+    },
+    {
+      "host": "aiflorida.cn",
+      "url": "https://aiflorida.cn/",
+      "label": "无界云",
+      "apex": "aiflorida.cn",
+      "kind": null,
+      "identity": "m5edqakt/page-9642ac2cf03b4550a5d658d2"
+    },
+    {
+      "host": "aixdk.cn",
+      "url": "https://aixdk.cn/",
+      "label": "无界云",
+      "apex": "aixdk.cn",
+      "kind": null,
+      "identity": "qe8uaxxpf/page-6b7d7e55de5c76fd8b7b380a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f921661cb1829ef4f8c26b759964305807f5e224067af4ed9f0d6d0a3b3113da",
+    "sitemap.xml": "ba132a0f007784c097df9b8627d3d69a55cd6d56e0ecc69d1c99f2a83bbadbee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "418ee1c271ffd2ce18c2779277a5afb5b3253b589ccc0a30dfa1ba8c3ab7dfd2",
+    "robots.txt": "97b4cf70292dd54752b9084362ecf2fa759e5f6c885f19f18b95d22f1b12f347",
+    "02d0a7ff98cbef75d7d05929201c4201.txt": "d9db281457e9705a3cfd599bbede3e50cfbf199a1f13d339460060f640e7f5cf"
+  },
+  "revision": "52ce8ec59adbd899f7e22aa04822b819768e845a224b1d9d93ccf8aa97c67d69"
+}
